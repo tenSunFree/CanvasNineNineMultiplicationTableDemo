@@ -6,7 +6,7 @@
 
 取材自以下資源
 --------
-Android Canvas drawText实现中文垂直居中
+Android Canvas drawText实现中文垂直居中                                                                 
 https://blog.csdn.net/hursing/article/details/18703599
                           
 預覽
